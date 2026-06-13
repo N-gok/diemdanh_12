@@ -1,0 +1,15 @@
+{
+  "name": "Điểm danh Lớp 12A1 (2026-2027)",
+  "short_name": "Điểm danh 12A1",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
