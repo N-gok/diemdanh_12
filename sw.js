@@ -1,4 +1,4 @@
-const CACHE_NAME = 'diemdanh-v3'; 
+const CACHE_NAME = 'diemdanh-v4'; 
 const ASSETS = [
   './',
   './index.html',
